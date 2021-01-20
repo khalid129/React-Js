@@ -31,3 +31,11 @@
 // <p>My currrent Time = {time}</p>
 // </>,document.getElementById("root"));
 
+// inline css use karna h to use hame js k object ki tarah treat karna parega
+// inline me kebab case nahi balke camel case use hoga css k attributes k lea
+//style={{
+//      color: "#ff6765",
+//      textAlign: "center"
+//  }}
+
+
