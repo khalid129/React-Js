@@ -9,9 +9,9 @@ var img3 = "https://picsum.photos/300/300";
 ReactDOM.render(<>
     <h1 className="heading">My name is {name}</h1>
     <div className="img_div">
-    <img src={img1} alt="image is here"/>
-    <img src={img2} alt="image is here"/>
-    <img src={img3} alt="image is here"/>
+    <img src={img1} alt="Content is here"/>
+    <img src={img2} alt="Content is here"/>
+    <img src={img3} alt="Content is here"/>
     </div>
 </>
     , document.getElementById("root"));
