@@ -1,0 +1,41 @@
+// `` is used to write variable in javascript
+
+// Alternative of React Element
+
+// var h1 = document.createElement("h1");
+// h1.innerHTML = "Hello World";
+// document.getElementById("root").appendChild(h1);
+
+// Pass more than one element
+
+// [
+//     <h1>City Name</h1>,
+//     <ul>
+//         <li>Karachi</li>
+//         <li>Lahore</li>
+//         <li>Islamabad</li>
+//     </ul>
+// ]
+
+// Syntathic sugar of react fragement
+/* <>
+</> */
+
+// Current date and time method
+
+// var date = new Date().toLocaleDateString();
+// var time = new Date().toLocaleTimeString();
+// ReactDOM.render(<>
+// <h1>My name is Muhammad Khalid</h1>
+// <p>My current Date = {date}</p>
+// <p>My currrent Time = {time}</p>
+// </>,document.getElementById("root"));
+
+// inline css use karna h to use hame js k object ki tarah treat karna parega
+// inline me kebab case nahi balke camel case use hoga css k attributes k lea
+//style={{
+//      color: "#ff6765",
+//      textAlign: "center"
+//  }}
+
+
